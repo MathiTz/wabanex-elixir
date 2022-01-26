@@ -51,21 +51,3 @@ Por fim, a aplicação estará disponível em `http://localhost:4000`
 ---
 
 <div id="mit"></div>
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-&nbsp;
-
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9f3ee78b-398b-44c7-9162-b965a51a36b8%2FThumbnail_NLW_Missao-3.png?table=block&id=e2036a66-a578-4f0e-94e5-64c6dd19fc10&width=3840&userId=df2e008f-2944-47d0-8456-ddd9b0e1c974&cache=v2" width="450px" />
-</h1>
-
-&nbsp;
-
-<div align="center">
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
-</div>
